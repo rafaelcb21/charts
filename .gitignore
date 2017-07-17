@@ -1,0 +1,16 @@
+_Store
+.atom/
+.idea
+.packages
+.pub/
+build/
+packages
+pubspec.lock
+.flutter-plugins
+README.md
+pubspec.yaml
+charts.iml
+charts_android.iml
+android.iml
+android/
+ios/
